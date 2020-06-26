@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "email": "example@gmail.com",
+      "password": "$2a$10$yUiytv755c2/MVmPJeojPe5Y7eVIXOsbra37xPekPW1.2LuxuZz3e",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "firstName": "Isha",
+      "lastName": "Eren",
+      "phone": "+4 (437) 4521419",
+      "id": 82,
+      "userId": 1
+    },
+    {
+      "firstName": "Allen",
+      "lastName": "Jay",
+      "phone": "+1 (834) 1897521",
+      "id": 83,
+      "userId": "1"
+    },
+    {
+      "firstName": "Zachariah",
+      "lastName": "Zachariah",
+      "phone": "+3 (868) 0585936",
+      "id": 84,
+      "userId": 1
+    },
+    {
+      "firstName": "Ursula",
+      "lastName": "Erika",
+      "phone": "+8 (732) 2269678",
+      "id": 85,
+      "userId": 1
+    },
+    {
+      "firstName": "Nahla",
+      "lastName": "Yasmine",
+      "phone": "+9 (262) 1392084",
+      "id": 86,
+      "userId": 1
+    },
+    {
+      "firstName": "Isha",
+      "lastName": "Jeremiah",
+      "phone": "+0 (109) 2072536",
+      "id": 87,
+      "userId": 1
+    },
+    {
+      "firstName": "Ursula",
+      "lastName": "Lillian",
+      "phone": "+7 (500) 8134738",
+      "id": 88,
+      "userId": 1
+    },
+    {
+      "firstName": "Erika",
+      "lastName": "Yasmine",
+      "phone": "+7 (588) 9062089",
+      "id": 90,
+      "userId": 1
+    },
+    {
+      "firstName": "Allen",
+      "lastName": "Aliesha",
+      "phone": "+4 (020) 1292969",
+      "id": 91,
+      "userId": 1
+    },
+    {
+      "firstName": "Albert",
+      "lastName": "Lorna",
+      "phone": "+3 (438) 3610030",
+      "id": 92,
+      "userId": "1"
+    },
+    {
+      "firstName": "Jay",
+      "lastName": "Aliesha",
+      "phone": "+6 (976) 3037685",
+      "id": 93,
+      "userId": 1
+    },
+    {
+      "firstName": "Eren",
+      "lastName": "Evan",
+      "phone": "+2 (376) 7765662",
+      "id": 94,
+      "userId": 1
+    },
+    {
+      "firstName": "Yasmine",
+      "lastName": "Saniya",
+      "phone": "+2 (528) 8663715",
+      "id": 95,
+      "userId": 1
+    },
+    {
+      "firstName": "Albert",
+      "lastName": "Jennie",
+      "phone": "+3 (584) 826142",
+      "id": 96,
+      "userId": "1"
+    },
+    {
+      "firstName": "Zachariah",
+      "lastName": "Erika",
+      "phone": "+0 (560) 6417694",
+      "id": 98,
+      "userId": 1
+    },
+    {
+      "firstName": "Erika",
+      "lastName": "Aliesha",
+      "phone": "+2 (776) 0544998",
+      "id": 99,
+      "userId": 1
+    },
+    {
+      "userId": "1",
+      "firstName": "First",
+      "lastName": "Second",
+      "phone": "+9222",
+      "id": 100
+    },
+    {
+      "userId": "1",
+      "firstName": "Ames",
+      "lastName": "McAvout",
+      "phone": "+7 777 22 (33)",
+      "id": 101
+    },
+    {
+      "userId": "1",
+      "firstName": "Jj",
+      "lastName": "Abrams",
+      "phone": "+6 666",
+      "id": 102
+    }
+  ]
+}

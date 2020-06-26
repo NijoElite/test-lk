@@ -1,0 +1,26 @@
+.Paranja {
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    animation: pulse 1s infinite alternate;
+    background: var(--color-light-grey);
+    opacity: 0;
+    transition: all 1s;
+    visibility: hidden;
+
+    &_active {
+        opacity: .9;
+        visibility: visible;
+    }
+}
+
+@keyframes pulse {
+    0% {
+        opacity: .6;
+    }
+
+    100% {
+        opacity: .9;
+    }
+}

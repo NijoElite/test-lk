@@ -1,0 +1,49 @@
+.Contacts {
+    position: relative;
+    display: flex;
+}
+
+.Contacts-List {
+    overflow: auto;
+    width: 50%;
+    flex-grow: 1;
+    padding: 10px;
+}
+
+.Contacts-Exit {
+    margin-bottom: 15px;
+    margin-left: auto;
+}
+
+.Contacts-ListRow {
+    padding: 5px;
+    margin: 3px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all .1s ease;
+
+    &:hover {
+        background: var(--color-blue);
+        color: var(--color-white);
+    }
+
+    &_accent {
+        background: #cce0ff;
+    }
+
+    &_selected {
+        background: var(--color-blue);
+        color: var(--color-white);
+    }
+}
+
+.Contacts-Summary {
+    width: 50%;
+    flex-grow: 1;
+    padding: 10px;
+}
+
+.Contacts-SummaryInner {
+    position: sticky;
+    top: 15px;
+}
